@@ -1,15 +1,6 @@
-> **This repo is for [Product Growth](https://www.news.aakashg.com) paid subscribers only.** Please do not share or redistribute. If you found this link somewhere other than your subscription, [subscribe here](https://www.news.aakashg.com).
-
 # PM GitHub Starter Kit
 
-Profile templates, project README templates, AI coding prompts, and a 3-week checklist to build a GitHub that gets you hired.
-
-**24% of PM candidates have a GitHub. The latest PMs I placed at OpenAI, Anthropic, and Meta AI all had one.**
-
-This is the companion repo to [How to Build a PM GitHub](https://www.news.aakashg.com/p/you-should-build-a-pm-github) — the web's first guide on PM GitHub profiles.
-
----
-
+Profile templates, project README templates, AI coding prompts, and a 3-week checklist to build a GitHub that gets you at top 1% of AI PMs
 ## What's Inside
 
 ```
@@ -46,8 +37,6 @@ See [CHECKLIST.md](CHECKLIST.md) for the full checklist with every step.
 
 ## What Makes a Great PM GitHub
 
-Based on analyzing profiles like [Shubham Saboo's](https://github.com/Shubhamsaboo) (78K+ stars, went from Dev Rel to Senior AI PM at Google):
-
 1. **One flagship project that solves a real problem** — not scattered toy repos
 2. **Crystal clear positioning** — your bio says what you build in one line
 3. **Consistent contribution activity** — recent activity beats total stars
@@ -64,18 +53,3 @@ The `PROJECT-README.md` template bakes in the sections hiring managers look for:
 - **Green square farming** — hiring managers click the squares. Empty commits are an anti-signal
 - **Engineer cosplay** — let AI write clean code. You focus on problem statements, UX, and documentation
 - **One-and-done** — a dormant GitHub is worse than no GitHub. Build one small thing per week
-
-## Related
-
-- [How to Build a PM GitHub](https://www.news.aakashg.com/p/you-should-build-a-pm-github) — the full deep dive
-- [How to Land an AI PM Job](https://www.aakashg.com)
-- [AI Agent Guide for PMs](https://www.aakashg.com)
-- [Product Growth Newsletter](https://www.news.aakashg.com)
-
-## License
-
-For personal use by Product Growth subscribers only. Do not redistribute or share publicly.
-
----
-
-Built by [Aakash Gupta](https://www.aakashg.com) | [Product Growth](https://www.news.aakashg.com)
