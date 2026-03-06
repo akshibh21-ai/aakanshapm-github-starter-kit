@@ -1,11 +1,11 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aakansha Bhalotia 👋
 
 ## What I Build
-[1-2 sentences about the type of projects you build. Be specific. "AI agents that automate PM workflows" beats "passionate about AI."]
+AI Native PM that builds PM workflows to simplify and scale the work and enable other PMs
 
 ## What I'm Working On
 - 🔨 [Current project name] — [one-line description]
-- 📚 [What you're learning right now]
+- 📚 I'm learning Claude (code, Cowork), Cursor and how to build a connector SDK to scale my connector ecosystem from 50 to 200 in the next two months across cataloging and lineage use cases
 - 🤝 [What you're looking for — collaborators, feedback, roles]
 
 ## Featured Projects
